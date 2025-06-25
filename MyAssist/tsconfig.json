@@ -1,33 +1,10 @@
 {
-    "compilerOptions": {
-    "types": ["styled-components-react-native","@types/styled-components-react-native"],
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
     "target": "ESNext",
-    "lib": [
-      "ESNext"
-    ],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "strict": false,
-    "forceConsistentCasingInFileNames": true,
-    "module": "ESNext",
-      "declaration": true,
     "moduleResolution": "node",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "noEmit": false,
-    "jsx": "react-jsx",
-    "baseUrl": "./",
-    "paths": {
-      "@/*": [
-        "./src"
-      ]
-    }
-  },
-  "include": [
-    "src",
-    "App.tsx"
-  ]
-
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "typeRoots": ["./node_modules/@types", "./declarations.d.tsx"]
+  }
 }

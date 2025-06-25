@@ -14,13 +14,26 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyAssist" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nathterribile"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nathterribile/MyAssist-React-Native-App.git",
+    "accountId": "85a3c812-d799-4948-b09c-ba027cd44364"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2xMyj4Cgjv4LMgqToDCOyNQ27ic" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,17 +42,19 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/MyAssist-React-Native",
+    "last_opened_file_path": "C:/MyAssist-React-Native-App",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyAssist-React-Native-App" />
       <recent name="C:\Users\Nathalia Terribile\Desktop\MyAssist-React-Native\MyAssist" />
       <recent name="C:\Users\Nathalia Terribile\Desktop\MyAssist-React-Native\MyAssist\android" />
       <recent name="C:\Users\Nathalia Terribile\Desktop\Assistencia-Tecnica-Frontend-React-Native - Copia\MyAssist" />

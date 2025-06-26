@@ -1,0 +1,54 @@
+com.myassist.app-res-0 C:\MyAssist-React-Native-App\MyAssist\android\app\build\generated\res\createBundleReleaseJsAndAssets
+com.myassist.app-pngs-1 C:\MyAssist-React-Native-App\MyAssist\android\app\build\generated\res\pngs\release
+com.myassist.app-resValues-2 C:\MyAssist-React-Native-App\MyAssist\android\app\build\generated\res\resValues\release
+com.myassist.app-packageReleaseResources-3 C:\MyAssist-React-Native-App\MyAssist\android\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.myassist.app-packageReleaseResources-4 C:\MyAssist-React-Native-App\MyAssist\android\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.myassist.app-release-5 C:\MyAssist-React-Native-App\MyAssist\android\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.myassist.app-main-6 C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\res
+com.myassist.app-release-7 C:\MyAssist-React-Native-App\MyAssist\android\app\src\release\res
+com.myassist.app-release-8 C:\MyAssist-React-Native-App\MyAssist\node_modules\@react-native-picker\picker\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.myassist.app-release-9 C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-date-picker\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.myassist.app-release-10 C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.myassist.app-release-11 C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.myassist.app-release-12 C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-screens\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.myassist.app-release-13 C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-ssl-pinning\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.myassist.app-release-14 C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-svg\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.myassist.app-startup-runtime-1.1.1-15 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\04347729be68c44caf29c9e2c51fe5d9\transformed\startup-runtime-1.1.1\res
+com.myassist.app-drawerlayout-1.1.1-16 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\0af22f8719f69800000fff3e3dedb030\transformed\drawerlayout-1.1.1\res
+com.myassist.app-transition-1.5.0-17 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\120412e1006900cb1f30a5ff65023257\transformed\transition-1.5.0\res
+com.myassist.app-core-runtime-2.2.0-18 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\13c0cf3cf02bf8ad108b42a44b016aaa\transformed\core-runtime-2.2.0\res
+com.myassist.app-constraintlayout-2.0.1-19 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9a43559950a6831c344ff45b40348\transformed\constraintlayout-2.0.1\res
+com.myassist.app-emoji2-1.2.0-20 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\res
+com.myassist.app-tracing-1.1.0-21 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\2111c419a08812af2f2d7e25cdda2a03\transformed\tracing-1.1.0\res
+com.myassist.app-lifecycle-process-2.6.2-22 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\res
+com.myassist.app-lifecycle-viewmodel-ktx-2.6.2-23 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\332aa404feeef924c8d11685e16f8057\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.myassist.app-activity-ktx-1.8.0-24 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\34efd74f96813217be34668bd821f2cd\transformed\activity-ktx-1.8.0\res
+com.myassist.app-appcompat-1.6.1-25 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\3961e88ee27b7e62767afbb0f9878903\transformed\appcompat-1.6.1\res
+com.myassist.app-PersistentCookieJar-v1.0.1-26 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4db7ec69dc5b895cfb427fe284713925\transformed\PersistentCookieJar-v1.0.1\res
+com.myassist.app-coordinatorlayout-1.2.0-27 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4f165841fff99c7fad0dd4675d47b60e\transformed\coordinatorlayout-1.2.0\res
+com.myassist.app-lifecycle-livedata-2.6.2-28 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\593d6408eb2406b0dfc8d4ba484493c6\transformed\lifecycle-livedata-2.6.2\res
+com.myassist.app-lifecycle-runtime-2.6.2-29 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5b1b33349bdf550b0a4aa87ca4e9b68e\transformed\lifecycle-runtime-2.6.2\res
+com.myassist.app-lifecycle-livedata-core-ktx-2.6.2-30 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5e78a5c32c81def9eabd75cf08d385ea\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.myassist.app-drawee-3.2.0-31 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6496edff64d4d37397a1ee2ad3ad50e1\transformed\drawee-3.2.0\res
+com.myassist.app-lifecycle-livedata-core-2.6.2-32 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6c4797ae7524977f4df476d620afccd4\transformed\lifecycle-livedata-core-2.6.2\res
+com.myassist.app-material-1.12.0-33 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6e9628c0544012b8f480aaabfbd8ce54\transformed\material-1.12.0\res
+com.myassist.app-savedstate-ktx-1.2.1-34 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6ea878d1272c7ea3ad78683257c60a25\transformed\savedstate-ktx-1.2.1\res
+com.myassist.app-autofill-1.1.0-35 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7102aec5a49e2b70c6fb174865f8e722\transformed\autofill-1.1.0\res
+com.myassist.app-core-ktx-1.10.1-36 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\735bf12deb965a7401e2cb755a53c359\transformed\core-ktx-1.10.1\res
+com.myassist.app-profileinstaller-1.3.0-37 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\res
+com.myassist.app-annotation-experimental-1.4.0-38 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\79ecf6c37174043fc03a01cb14cc4e9a\transformed\annotation-experimental-1.4.0\res
+com.myassist.app-lifecycle-runtime-ktx-2.6.2-39 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7ecb50c665564ddaa8d055da21c97a05\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.myassist.app-lifecycle-viewmodel-2.6.2-40 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\823a5554ac190ee9b6e6a3b2d893e39e\transformed\lifecycle-viewmodel-2.6.2\res
+com.myassist.app-viewpager2-1.0.0-41 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\858af92011c705efc3775bb35cb19600\transformed\viewpager2-1.0.0\res
+com.myassist.app-react-android-0.75.5-release-42 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\8c9111a5e671aaca15d52f89eeb59a3a\transformed\react-android-0.75.5-release\res
+com.myassist.app-appcompat-resources-1.6.1-43 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\952d367e6ab80bc8eb9511a643b07872\transformed\appcompat-resources-1.6.1\res
+com.myassist.app-emoji2-views-helper-1.2.0-44 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\9c68892a2335a5f94bfe667bcaf66581\transformed\emoji2-views-helper-1.2.0\res
+com.myassist.app-fragment-ktx-1.6.1-45 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\9e788a321de594acb8bb61354d9420fe\transformed\fragment-ktx-1.6.1\res
+com.myassist.app-core-1.13.0-46 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\res
+com.myassist.app-recyclerview-1.1.0-47 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\aad2a0cb3497561f010d868620cd3c9b\transformed\recyclerview-1.1.0\res
+com.myassist.app-cardview-1.0.0-48 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c55afc4912f9d589df64f6bcd2650412\transformed\cardview-1.0.0\res
+com.myassist.app-activity-1.8.0-49 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c843a0ed130962e6a76a7f44d9d881fe\transformed\activity-1.8.0\res
+com.myassist.app-swiperefreshlayout-1.1.0-50 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e0245230a5b8b75070f013451f1e436f\transformed\swiperefreshlayout-1.1.0\res
+com.myassist.app-lifecycle-viewmodel-savedstate-2.6.2-51 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f361a87ed231af1e15c497bccc1d4d40\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.myassist.app-fragment-1.6.1-52 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fa674e3f2090262dbf9bf352a21ad30a\transformed\fragment-1.6.1\res
+com.myassist.app-savedstate-1.2.1-53 C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fb3706e736170ba983899976eca5cd59\transformed\savedstate-1.2.1\res

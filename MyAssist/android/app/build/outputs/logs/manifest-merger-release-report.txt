@@ -1,0 +1,420 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-picker_picker] C:\MyAssist-React-Native-App\MyAssist\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-date-picker] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-gesture-handler] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-ssl-pinning] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-ssl-pinning\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-svg] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.75.5] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\8c9111a5e671aaca15d52f89eeb59a3a\transformed\react-android-0.75.5-release\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fresco:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\01cb5cefc56ee327c543c62d8560cd3d\transformed\fresco-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:soloader:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\b8ceb769a973634b2a03aa9e4b8978c5\transformed\soloader-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ef94e0df58e69c45ad373c981efb0b62\transformed\imagepipeline-okhttp3-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6496edff64d4d37397a1ee2ad3ad50e1\transformed\drawee-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagefilters:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f36470df05054d22f6b9c1981c624344\transformed\nativeimagefilters-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-native:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ea6337ce11c29ceef6663351156a4a8b\transformed\memory-type-native-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-java:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e11f80a53ee7a889e922e4bd43ce91cc\transformed\memory-type-java-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-native:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c7e84c36e49a235c2574eb6c4928bf38\transformed\imagepipeline-native-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\47e4bd3e5ae9a440b0fd14b8347c4347\transformed\soloader-0.11.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6e9628c0544012b8f480aaabfbd8ce54\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\952d367e6ab80bc8eb9511a643b07872\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9a43559950a6831c344ff45b40348\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\3961e88ee27b7e62767afbb0f9878903\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\858af92011c705efc3775bb35cb19600\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fa674e3f2090262dbf9bf352a21ad30a\transformed\fragment-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\9e788a321de594acb8bb61354d9420fe\transformed\fragment-ktx-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c843a0ed130962e6a76a7f44d9d881fe\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\34efd74f96813217be34668bd821f2cd\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4f165841fff99c7fad0dd4675d47b60e\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e0245230a5b8b75070f013451f1e436f\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7102aec5a49e2b70c6fb174865f8e722\transformed\autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\9c68892a2335a5f94bfe667bcaf66581\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\0af22f8719f69800000fff3e3dedb030\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\120412e1006900cb1f30a5ff65023257\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ba31a42481aad6ec39fd16ad18d5a45a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\38915db47581c869b1eced443a2ed0d6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fb0f43ea4dccf2508e293a9b0a19d39e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\3cbb18e18b97aeba44b34972c343a7b6\transformed\memory-type-ashmem-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e929267aff1e4782ea4fd798db1b7fb9\transformed\imagepipeline-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ddea8db2b0b946f549b4402b9d101df4\transformed\nativeimagetranscoder-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-base:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c937a82e9158d2a1685b42c188ac1999\transformed\imagepipeline-base-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:middleware:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fd94a0eb86bf790474a571a6e6f6a0fb\transformed\middleware-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:ui-common:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7d61fe4570f7e888c27506eed6fdf997\transformed\ui-common-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c4013dcfaff0446adcc8bbf1ed5e8d4d\transformed\fbcore-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\872608fc10db98e899d201ee57c215f0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c3221f81d395d67563438fbf41ac0739\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5d3a3f99e7feb1b029035ccff37955a5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\aad2a0cb3497561f010d868620cd3c9b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c0809b7a00d1ca3a869c1d28e3d01e8c\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6ea878d1272c7ea3ad78683257c60a25\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fb3706e736170ba983899976eca5cd59\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\332aa404feeef924c8d11685e16f8057\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\823a5554ac190ee9b6e6a3b2d893e39e\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7ecb50c665564ddaa8d055da21c97a05\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5e78a5c32c81def9eabd75cf08d385ea\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6c4797ae7524977f4df476d620afccd4\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\593d6408eb2406b0dfc8d4ba484493c6\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5b1b33349bdf550b0a4aa87ca4e9b68e\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f361a87ed231af1e15c497bccc1d4d40\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\735bf12deb965a7401e2cb755a53c359\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4db7ec69dc5b895cfb427fe284713925\transformed\PersistentCookieJar-v1.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\79ecf6c37174043fc03a01cb14cc4e9a\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\04347729be68c44caf29c9e2c51fe5d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\2111c419a08812af2f2d7e25cdda2a03\transformed\tracing-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\aaea8162c6302befb192f7f15525c4e3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\0f2689fcaaa9fe9002cfa7395446021f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c55afc4912f9d589df64f6bcd2650412\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6f2432b8c9f07515dc15bb8347661510\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fe4c4a18351aace792a2281d2aa61b7b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\d8e778d3cf704d3dd144951b04dd0ded\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\43a147ca3da52c9e9189657b369c1184\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\13c0cf3cf02bf8ad108b42a44b016aaa\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.react-native-community:jsc-android:2026004.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5a0a96c6a860d1ac1305514dc8c31bda\transformed\jsc-android-2026004.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f38fdce1c5d1a3a2e990a87a44207ff2\transformed\time4j-android-4.8-2021a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4e73301a90e00eeaf652291fca37559d\transformed\fbjni-0.6.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:3:22-64
+application
+ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:5:5-25:19
+INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\47e4bd3e5ae9a440b0fd14b8347c4347\transformed\soloader-0.11.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\47e4bd3e5ae9a440b0fd14b8347c4347\transformed\soloader-0.11.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6e9628c0544012b8f480aaabfbd8ce54\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6e9628c0544012b8f480aaabfbd8ce54\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9a43559950a6831c344ff45b40348\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9a43559950a6831c344ff45b40348\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4db7ec69dc5b895cfb427fe284713925\transformed\PersistentCookieJar-v1.0.1\AndroidManifest.xml:12:5-20
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4db7ec69dc5b895cfb427fe284713925\transformed\PersistentCookieJar-v1.0.1\AndroidManifest.xml:12:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\04347729be68c44caf29c9e2c51fe5d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\04347729be68c44caf29c9e2c51fe5d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6f2432b8c9f07515dc15bb8347661510\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6f2432b8c9f07515dc15bb8347661510\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f38fdce1c5d1a3a2e990a87a44207ff2\transformed\time4j-android-4.8-2021a\AndroidManifest.xml:11:5-20
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f38fdce1c5d1a3a2e990a87a44207ff2\transformed\time4j-android-4.8-2021a\AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:12:7-33
+	android:label
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:7:7-39
+	android:roundIcon
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:11:7-38
+	android:name
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:6:7-38
+activity#com.myassist.MainActivity
+ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-picker_picker] C:\MyAssist-React-Native-App\MyAssist\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-picker_picker] C:\MyAssist-React-Native-App\MyAssist\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-date-picker] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-date-picker] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-ssl-pinning] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-ssl-pinning\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-ssl-pinning] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-ssl-pinning\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] C:\MyAssist-React-Native-App\MyAssist\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.75.5] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\8c9111a5e671aaca15d52f89eeb59a3a\transformed\react-android-0.75.5-release\AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.react:react-android:0.75.5] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\8c9111a5e671aaca15d52f89eeb59a3a\transformed\react-android-0.75.5-release\AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.fresco:fresco:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\01cb5cefc56ee327c543c62d8560cd3d\transformed\fresco-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\01cb5cefc56ee327c543c62d8560cd3d\transformed\fresco-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\b8ceb769a973634b2a03aa9e4b8978c5\transformed\soloader-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\b8ceb769a973634b2a03aa9e4b8978c5\transformed\soloader-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ef94e0df58e69c45ad373c981efb0b62\transformed\imagepipeline-okhttp3-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ef94e0df58e69c45ad373c981efb0b62\transformed\imagepipeline-okhttp3-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6496edff64d4d37397a1ee2ad3ad50e1\transformed\drawee-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6496edff64d4d37397a1ee2ad3ad50e1\transformed\drawee-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f36470df05054d22f6b9c1981c624344\transformed\nativeimagefilters-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f36470df05054d22f6b9c1981c624344\transformed\nativeimagefilters-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ea6337ce11c29ceef6663351156a4a8b\transformed\memory-type-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ea6337ce11c29ceef6663351156a4a8b\transformed\memory-type-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e11f80a53ee7a889e922e4bd43ce91cc\transformed\memory-type-java-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e11f80a53ee7a889e922e4bd43ce91cc\transformed\memory-type-java-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c7e84c36e49a235c2574eb6c4928bf38\transformed\imagepipeline-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c7e84c36e49a235c2574eb6c4928bf38\transformed\imagepipeline-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\47e4bd3e5ae9a440b0fd14b8347c4347\transformed\soloader-0.11.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\47e4bd3e5ae9a440b0fd14b8347c4347\transformed\soloader-0.11.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6e9628c0544012b8f480aaabfbd8ce54\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6e9628c0544012b8f480aaabfbd8ce54\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\952d367e6ab80bc8eb9511a643b07872\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\952d367e6ab80bc8eb9511a643b07872\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9a43559950a6831c344ff45b40348\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9a43559950a6831c344ff45b40348\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\3961e88ee27b7e62767afbb0f9878903\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\3961e88ee27b7e62767afbb0f9878903\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\858af92011c705efc3775bb35cb19600\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\858af92011c705efc3775bb35cb19600\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fa674e3f2090262dbf9bf352a21ad30a\transformed\fragment-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fa674e3f2090262dbf9bf352a21ad30a\transformed\fragment-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\9e788a321de594acb8bb61354d9420fe\transformed\fragment-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\9e788a321de594acb8bb61354d9420fe\transformed\fragment-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c843a0ed130962e6a76a7f44d9d881fe\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c843a0ed130962e6a76a7f44d9d881fe\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\34efd74f96813217be34668bd821f2cd\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\34efd74f96813217be34668bd821f2cd\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4f165841fff99c7fad0dd4675d47b60e\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4f165841fff99c7fad0dd4675d47b60e\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e0245230a5b8b75070f013451f1e436f\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e0245230a5b8b75070f013451f1e436f\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7102aec5a49e2b70c6fb174865f8e722\transformed\autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7102aec5a49e2b70c6fb174865f8e722\transformed\autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\9c68892a2335a5f94bfe667bcaf66581\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\9c68892a2335a5f94bfe667bcaf66581\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\0af22f8719f69800000fff3e3dedb030\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\0af22f8719f69800000fff3e3dedb030\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\120412e1006900cb1f30a5ff65023257\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\120412e1006900cb1f30a5ff65023257\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ba31a42481aad6ec39fd16ad18d5a45a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ba31a42481aad6ec39fd16ad18d5a45a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\38915db47581c869b1eced443a2ed0d6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\38915db47581c869b1eced443a2ed0d6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fb0f43ea4dccf2508e293a9b0a19d39e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fb0f43ea4dccf2508e293a9b0a19d39e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\3cbb18e18b97aeba44b34972c343a7b6\transformed\memory-type-ashmem-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\3cbb18e18b97aeba44b34972c343a7b6\transformed\memory-type-ashmem-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e929267aff1e4782ea4fd798db1b7fb9\transformed\imagepipeline-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\e929267aff1e4782ea4fd798db1b7fb9\transformed\imagepipeline-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ddea8db2b0b946f549b4402b9d101df4\transformed\nativeimagetranscoder-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\ddea8db2b0b946f549b4402b9d101df4\transformed\nativeimagetranscoder-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c937a82e9158d2a1685b42c188ac1999\transformed\imagepipeline-base-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c937a82e9158d2a1685b42c188ac1999\transformed\imagepipeline-base-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fd94a0eb86bf790474a571a6e6f6a0fb\transformed\middleware-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fd94a0eb86bf790474a571a6e6f6a0fb\transformed\middleware-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7d61fe4570f7e888c27506eed6fdf997\transformed\ui-common-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7d61fe4570f7e888c27506eed6fdf997\transformed\ui-common-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c4013dcfaff0446adcc8bbf1ed5e8d4d\transformed\fbcore-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c4013dcfaff0446adcc8bbf1ed5e8d4d\transformed\fbcore-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\872608fc10db98e899d201ee57c215f0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\872608fc10db98e899d201ee57c215f0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c3221f81d395d67563438fbf41ac0739\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c3221f81d395d67563438fbf41ac0739\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5d3a3f99e7feb1b029035ccff37955a5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5d3a3f99e7feb1b029035ccff37955a5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\aad2a0cb3497561f010d868620cd3c9b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\aad2a0cb3497561f010d868620cd3c9b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c0809b7a00d1ca3a869c1d28e3d01e8c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c0809b7a00d1ca3a869c1d28e3d01e8c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6ea878d1272c7ea3ad78683257c60a25\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6ea878d1272c7ea3ad78683257c60a25\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fb3706e736170ba983899976eca5cd59\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fb3706e736170ba983899976eca5cd59\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\332aa404feeef924c8d11685e16f8057\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\332aa404feeef924c8d11685e16f8057\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\823a5554ac190ee9b6e6a3b2d893e39e\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\823a5554ac190ee9b6e6a3b2d893e39e\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7ecb50c665564ddaa8d055da21c97a05\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\7ecb50c665564ddaa8d055da21c97a05\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5e78a5c32c81def9eabd75cf08d385ea\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5e78a5c32c81def9eabd75cf08d385ea\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6c4797ae7524977f4df476d620afccd4\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6c4797ae7524977f4df476d620afccd4\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\593d6408eb2406b0dfc8d4ba484493c6\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\593d6408eb2406b0dfc8d4ba484493c6\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5b1b33349bdf550b0a4aa87ca4e9b68e\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5b1b33349bdf550b0a4aa87ca4e9b68e\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f361a87ed231af1e15c497bccc1d4d40\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f361a87ed231af1e15c497bccc1d4d40\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\735bf12deb965a7401e2cb755a53c359\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\735bf12deb965a7401e2cb755a53c359\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4db7ec69dc5b895cfb427fe284713925\transformed\PersistentCookieJar-v1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4db7ec69dc5b895cfb427fe284713925\transformed\PersistentCookieJar-v1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\79ecf6c37174043fc03a01cb14cc4e9a\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\79ecf6c37174043fc03a01cb14cc4e9a\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\04347729be68c44caf29c9e2c51fe5d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\04347729be68c44caf29c9e2c51fe5d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\2111c419a08812af2f2d7e25cdda2a03\transformed\tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\2111c419a08812af2f2d7e25cdda2a03\transformed\tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\aaea8162c6302befb192f7f15525c4e3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\aaea8162c6302befb192f7f15525c4e3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\0f2689fcaaa9fe9002cfa7395446021f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\0f2689fcaaa9fe9002cfa7395446021f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c55afc4912f9d589df64f6bcd2650412\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\c55afc4912f9d589df64f6bcd2650412\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6f2432b8c9f07515dc15bb8347661510\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\6f2432b8c9f07515dc15bb8347661510\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fe4c4a18351aace792a2281d2aa61b7b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\fe4c4a18351aace792a2281d2aa61b7b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\d8e778d3cf704d3dd144951b04dd0ded\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\d8e778d3cf704d3dd144951b04dd0ded\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\43a147ca3da52c9e9189657b369c1184\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\43a147ca3da52c9e9189657b369c1184\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\13c0cf3cf02bf8ad108b42a44b016aaa\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\13c0cf3cf02bf8ad108b42a44b016aaa\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [io.github.react-native-community:jsc-android:2026004.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5a0a96c6a860d1ac1305514dc8c31bda\transformed\jsc-android-2026004.0.1\AndroidManifest.xml:5:5-44
+MERGED from [io.github.react-native-community:jsc-android:2026004.0.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\5a0a96c6a860d1ac1305514dc8c31bda\transformed\jsc-android-2026004.0.1\AndroidManifest.xml:5:5-44
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f38fdce1c5d1a3a2e990a87a44207ff2\transformed\time4j-android-4.8-2021a\AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\f38fdce1c5d1a3a2e990a87a44207ff2\transformed\time4j-android-4.8-2021a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4e73301a90e00eeaf652291fca37559d\transformed\fbjni-0.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\4e73301a90e00eeaf652291fca37559d\transformed\fbjni-0.6.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\MyAssist-React-Native-App\MyAssist\android\app\src\main\AndroidManifest.xml
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.11.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\47e4bd3e5ae9a440b0fd14b8347c4347\transformed\soloader-0.11.0\AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.11.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\47e4bd3e5ae9a440b0fd14b8347c4347\transformed\soloader-0.11.0\AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.11.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\47e4bd3e5ae9a440b0fd14b8347c4347\transformed\soloader-0.11.0\AndroidManifest.xml:13:13-57
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\04347729be68c44caf29c9e2c51fe5d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\04347729be68c44caf29c9e2c51fe5d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\17f9d6daa26ad20c4265319846f9a5f8\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.myassist.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.myassist.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\a67467527997c2350f3a54ceff471132\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\27abab86b4e6e6c4b382061cfcb19c91\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nathalia Terribile\.gradle\caches\8.13\transforms\75010294b8a84883c132a4a9997c6021\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

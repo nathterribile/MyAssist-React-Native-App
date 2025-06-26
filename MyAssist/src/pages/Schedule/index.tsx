@@ -7,6 +7,7 @@ import {Button, ScrollView, Alert} from 'react-native';
 import ConfirmedSchedule from './components/Modal/ConfirmedSchedule';
 import Devices from './components/Selects/Devices';
 import InputDate from './components/Selects/InputDate';
+import 'moment/locale/pt-br';
 import Moment from 'moment';
 
 
@@ -19,7 +20,7 @@ export default function Schedule () {
   const [device, setDevice] = useState('');
 
   const [date, setDate] = useState(new Date());
-  Moment.locale('br');
+  Moment.locale('pt-br');
   const selectedDateFormatted = Moment(date).format('YYYY-MM-DD');
 
 

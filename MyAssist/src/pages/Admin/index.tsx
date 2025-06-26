@@ -8,6 +8,7 @@ import {Text, ScrollView, Alert, FlatList, View} from 'react-native';
 import InputEnterDate from './components/Selects/InputEnterDate';
 import InputDeliveryDate from './components/Selects/InputDeliveryDate';
 import AlterOS from './components/Modal/AlterOS';
+import 'moment/locale/pt-br';
 import Moment from 'moment';
 import { LogBox } from 'react-native';
 
@@ -26,7 +27,7 @@ export default function Admin() {
   const [device, setDevice] = useState('');
 
   const [enterDate, setEnterDate] = useState(new Date());
-  Moment.locale('br');
+  Moment.locale('pt-br');
   const selectedEnterDateFormatted = Moment(enterDate).format('YYYY-MM-DD');
 
   const [problem, setProblem] = useState('');

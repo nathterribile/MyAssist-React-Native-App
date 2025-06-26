@@ -1,3 +1,9 @@
+-keep class com.swmansion.reanimated.** { *; }
+-keep class com.facebook.hermes.** { *; }
+-keep class com.facebook.react.** { *; }
+-dontwarn com.facebook.react.**
+-keep class com.swmansion.gesturehandler.** { *; }
+
 # Add project specific ProGuard rules here.
 # By default, the flags in this file are appended to flags specified
 # in /usr/local/Cellar/android-sdk/24.3.3/tools/proguard/proguard-android.txt

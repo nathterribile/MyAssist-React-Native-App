@@ -15,30 +15,29 @@ export default function Home() {
     <styles.Container>
       <ScrollView>
         <styles.navbar>
-        <styles.navbarTitle><Logo color="white"/> MyAssist</styles.navbarTitle>
-          <styles.navbarLink onPress={() => setLMShow(true)}>
+        <styles.navbarTitle testID="navbarTitle"><Logo testID="logo" color="white"/> MyAssist</styles.navbarTitle>
+          <styles.navbarLink testID="navbarLink" onPress={() => setLMShow(true)}>
             Login
           </styles.navbarLink>
         </styles.navbar>
 
-        <ModalLogin visible={loginModalVisible} setLMShow={setLMShow} />
+        <ModalLogin testID="modalLogin" visible={loginModalVisible} setLMShow={setLMShow} />
         <styles.hero>
-          <styles.heroTitle>
+          <styles.heroTitle testID="heroTitle">
             A melhor assistência técnica de São Paulo
           </styles.heroTitle>
-          <styles.heroText>
+          <styles.heroText testID="heroTextApresentacao">
             Oferecemos assistência técnica especializada, com reparo com uso de
             peças originais e garantia de serviço. Contamos com profissionais qualificados e constantemente treinados.</styles.heroText>
-          <styles.heroText>Evite filas e faça um pré-agendamento antes de deslocar-se ao Centro de Serviço para realizar a Assistência Técnica de seu smartphone, tablet ou notebook.</styles.heroText>
-          <styles.image source={require('../../assets/images/Assist.png')} />
-          <Button title="Mais informações aqui" onPress={() => setAMShow(true)}/>
+          <styles.heroText testID="heroTextAgendamento">Evite filas e faça um pré-agendamento antes de deslocar-se ao Centro de Serviço para realizar a Assistência Técnica de seu smartphone, tablet ou notebook.</styles.heroText>
+          <styles.image testID="imageAssist" source={require('../../assets/images/Assist.png')} />
+          <Button testID="maisInformacoesButton" title="Mais informações aqui" onPress={() => setAMShow(true)}/>
         </styles.hero>
 
-
-        <ModalAtencao visible={attentionModalVisible} setAMShow={setAMShow} />
+        <ModalAtencao testID="modalAtencao" visible={attentionModalVisible} setAMShow={setAMShow} />
 
         <styles.services>
-          <styles.servicesTitle>Serviços</styles.servicesTitle>
+          <styles.servicesTitle testID="servicesTitle">Serviços</styles.servicesTitle>
           <Cards />
         </styles.services>
       </ScrollView>

@@ -104,7 +104,7 @@ export default function Admin() {
 
 
           try {
-            const response = await fetch('https://myassist-backend-cahyf9d8chcwcxd0.brazilsouth-01.azurewebsites.net/os', {
+            const response = await fetch('https://147.15.121.92:8443/os', {
               method: 'POST',
               headers: {
                 Accept: 'application/json',
@@ -135,7 +135,7 @@ export default function Admin() {
 
   const getAll = async () => {
     try {
-      const response = await fetch('https://myassist-backend-cahyf9d8chcwcxd0.brazilsouth-01.azurewebsites.net/os' , { method: "GET" });
+      const response = await fetch('https://147.15.121.92:8443/os' , { method: "GET" });
 
       const body = await response.json();
 
@@ -154,7 +154,7 @@ export default function Admin() {
 
   const get = async (inputBusca) => {
       try {
-        const response = await fetch(`https://myassist-backend-cahyf9d8chcwcxd0.brazilsouth-01.azurewebsites.net/os/${inputBusca}`, { method: "GET" });
+        const response = await fetch(`https://147.15.121.92:8443/os/${inputBusca}`, { method: "GET" });
 
         const body = await response.json();
 
@@ -188,7 +188,7 @@ export default function Admin() {
 
               console.log(id);
               console.log(formData);
-            const response = await fetch(`https://myassist-backend-cahyf9d8chcwcxd0.brazilsouth-01.azurewebsites.net/os/${id}`, {
+            const response = await fetch(`https://147.15.121.92:8443/os/${id}`, {
                method: 'PUT',
                headers: {
                  Accept: 'application/json',

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_src_assets_images_computacao.jpg.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/src_assets_images_computacao.jpg"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_src_assets_images_assist.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/src_assets_images_assist.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_backiconmask.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_src_assets_images_user.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/src_assets_images_user.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.myassist.app-main-6:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_src_assets_images_eletronico.jpg.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/src_assets_images_eletronico.jpg"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_src_assets_images_eletrodomesticos.jpg.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/src_assets_images_eletrodomesticos.jpg"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.myassist.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.myassist.app-debug-4:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.myassist.app-main-6:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    }
+]

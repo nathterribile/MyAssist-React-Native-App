@@ -16,7 +16,7 @@ export default function Login({visible, setLMShow}: ModalLoginProps) {
   const handleLogin = async () => {
     try {
         console.log(user,password)
-        const response = await fetch(`https://myassist-backend-cahyf9d8chcwcxd0.brazilsouth-01.azurewebsites.net/usuario/login?usuario=${user}&senha=${password}`,{
+        const response = await fetch(`https://147.15.121.92:8443/usuario/login?usuario=${user}&senha=${password}`,{
             method:"POST"
         })
 

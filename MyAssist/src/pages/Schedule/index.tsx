@@ -44,7 +44,7 @@ export default function Schedule () {
       console.log(form);
 
         try {
-          const response = await fetch('https://myassist-backend-cahyf9d8chcwcxd0.brazilsouth-01.azurewebsites.net/os', {
+          const response = await fetch('https://147.15.121.92:8443/os', {
             method: 'POST',
             headers: {
               Accept: 'application/json',

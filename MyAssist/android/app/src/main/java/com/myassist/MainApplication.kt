@@ -10,43 +10,50 @@ import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.load
 import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 import com.facebook.react.defaults.DefaultReactNativeHost
 import com.facebook.soloader.SoLoader
-import android.util.Log
+import com.facebook.react.modules.network.OkHttpClientProvider
+import com.facebook.react.modules.network.OkHttpClientFactory
+import okhttp3.OkHttpClient
 
 class MainApplication : Application(), ReactApplication {
 
+    override val reactNativeHost: ReactNativeHost =
+        object : DefaultReactNativeHost(this) {
+            override fun getPackages(): List<ReactPackage> =
+                PackageList(this).packages.apply {
+                    // Add manual packages here if needed
+                }
 
-  override val reactNativeHost: ReactNativeHost =
-      object : DefaultReactNativeHost(this) {
-        override fun getPackages(): List<ReactPackage> =
-            PackageList(this).packages.apply {
-              // Packages that cannot be autolinked yet can be added manually here, for example:
-              // add(MyReactNativePackage())
+            override fun getJSMainModuleName(): String {
+                return "index"
             }
 
-        override fun getJSMainModuleName(): String = "index"
+            override fun getUseDeveloperSupport(): Boolean {
+                return BuildConfig.DEBUG
+            }
 
-        override fun getUseDeveloperSupport(): Boolean = BuildConfig.DEBUG
+            override val isNewArchEnabled: Boolean
+                get() = BuildConfig.IS_NEW_ARCHITECTURE_ENABLED
 
-        override val isNewArchEnabled: Boolean = BuildConfig.IS_NEW_ARCHITECTURE_ENABLED
-        override val isHermesEnabled: Boolean = BuildConfig.IS_HERMES_ENABLED
-      }
+            override val isHermesEnabled: Boolean?
+                get() = BuildConfig.IS_HERMES_ENABLED
+        }
 
-  override val reactHost: ReactHost
-    get() = getDefaultReactHost(applicationContext, reactNativeHost)
+    override val reactHost: ReactHost
+        get() = getDefaultReactHost(applicationContext, reactNativeHost)
 
+    override fun onCreate() {
+        super.onCreate()
+        SoLoader.init(this, false)
 
+        // Inject unsafe SSL client
+        OkHttpClientProvider.setOkHttpClientFactory(object : OkHttpClientFactory {
+            override fun createNewNetworkModuleClient(): OkHttpClient {
+                return UnsafeOkHttpClient.getUnsafeOkHttpClient()
+            }
+        })
 
-  override fun onCreate() {
-    super.onCreate()
-    SoLoader.init(this, false)
-      Thread.setDefaultUncaughtExceptionHandler(object : Thread.UncaughtExceptionHandler {
-          override fun uncaughtException(t: Thread, e: Throwable) {
-              Log.e("RN_Crash", "Uncaught error", e)
-          }
-      })
-    if (BuildConfig.IS_NEW_ARCHITECTURE_ENABLED) {
-      // If you opted-in for the New Architecture, we load the native entry point for this app.
-      load()
+        if (BuildConfig.IS_NEW_ARCHITECTURE_ENABLED) {
+            load()
+        }
     }
-  }
 }
